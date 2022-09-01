@@ -1,0 +1,72 @@
+﻿@model WebsiteBanHang.Context.Category
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="font-weight-bolder">XÓA SẢN PHẨM</h2>
+<h3>Bạn có chắc chắn muốn xóa cái này không?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Avatar)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Avatar)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Slug)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Slug)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShowOnHomePage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShowOnHomePage)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DisplayOnUtc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DisplayOnUtc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeleteId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeleteId)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm("Delete", "Category", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="text-success btn-default" /> |
+            @Html.ActionLink("Trở lại danh sách", "Index")
+        </div>
+    }
+</div>

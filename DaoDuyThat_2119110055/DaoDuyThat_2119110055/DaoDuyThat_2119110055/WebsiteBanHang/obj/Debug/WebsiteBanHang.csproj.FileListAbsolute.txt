@@ -1,0 +1,261 @@
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csc.exe
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csc.exe.config
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csc.rsp
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csi.exe
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csi.exe.config
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csi.rsp
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Console.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\vbc.exe.config
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\vbc.rsp
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Antlr3.Runtime.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Newtonsoft.Json.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Optimization.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebGrease.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Optimization.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Newtonsoft.Json.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.Mvc.dll
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.xml
+D:\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.Mvc.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebsiteBanHang.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebsiteBanHang.pdb
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csc.exe
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csc.exe.config
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csc.rsp
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csi.exe
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csi.exe.config
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csi.rsp
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Console.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\vbc.exe
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\vbc.exe.config
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\vbc.rsp
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Antlr3.Runtime.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Newtonsoft.Json.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.Mvc.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Helpers.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Mvc.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Optimization.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Razor.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebGrease.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.Mvc.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Helpers.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Mvc.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Optimization.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Razor.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Newtonsoft.Json.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+D:\@MỤC ASP.NET\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebsiteBanHang.dll.config
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebsiteBanHang.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebsiteBanHang.pdb
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csc.exe
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csc.exe.config
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csc.rsp
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csi.exe
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csi.exe.config
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\csi.rsp
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Console.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Net.Http.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\vbc.exe
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\vbc.exe.config
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\vbc.rsp
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Razor.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\WebGrease.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.Razor.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.AssemblyReference.cache
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.csproj.CopyComplete
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.dll
+C:\Users\ICT\Desktop\DaoDuyThat_2119110055\DaoDuyThat_2119110055\DaoDuyThat_2119110055\WebsiteBanHang\obj\Debug\WebsiteBanHang.pdb
